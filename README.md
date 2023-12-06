@@ -6,7 +6,7 @@
 
 🎓 Estudante de Engenharia de Controle e Automação na Universidade Federal de Minas Gerais (março de 2022 - junho de 2025)
 
-🔭 Atualmente trabalho no BTG Pactual como Summer Intern - Automation e sou CEO & Founder na Turing Inc.
+🔭 Atualmente trabalho no BTG Pactual como Summer Intern - Automation.
 
 🌱 Especializando-me em Machine Learning, Python e C
 
