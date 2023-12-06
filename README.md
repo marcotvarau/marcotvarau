@@ -8,7 +8,7 @@
 
 🔭 Atualmente trabalho no BTG Pactual como Summer Intern - Automation.
 
-🌱 Especializando-me em Machine Learning, Python e C
+🌱 Especializando-me em Machine Learning, Python e C++
 
 💬 Pergunte-me sobre Machine Learning, Python, e inovação em tecnologia
 
