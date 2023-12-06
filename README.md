@@ -15,8 +15,7 @@
 📫 Como me contatar: marcothulio49@gmail.com | [LinkedIn](www.linkedin.com/in/marco-thulio-maciel)
 
 ## Idiomas
-🌐 Inglês (Nativo ou Bilingue)
-
+🌐 Inglês 
 ## Certificações
 - Python Pandas: Tratando e analisando dados
 - Linux I: Conhecendo e utilizando o terminal
@@ -26,15 +25,12 @@
 
 ## Experiência Profissional
 - **BTG Pactual**: Summer Intern - Automation (Desde março de 2023)
-- **Turing Inc.**: CEO & Founder (Desde maio de 2022)
 - **Students For Liberty**: SFL Coordinator (Desde junho de 2022)
 - **CS Academy**: Data Scientist Jr. (maio de 2022 - janeiro de 2023)
 - **NPBR - Neil Patel Brasil**: Business Intelligence Consultant (março de 2021)
 - **Huawei Brasil**: Architecture Projects Intern (janeiro de 2021 - março de 2021)
-- **Crea-Minas Júnior**: People Management Intern (fevereiro de 2020 - outubro de 2020)
 
 ## Projetos e Interesses
-[Descreva aqui alguns dos projetos em que você trabalhou ou está trabalhando, incluindo links para repositórios do GitHub, se aplicável]
 
 ## Estatísticas do GitHub
 ![Seu Nome de Usuário do GitHub](https://github-readme-stats.vercel.app/api?username=[SeuNomeDeUsuario]&show_icons=true)
