@@ -33,4 +33,4 @@
 ## Projetos e Interesses
 
 ## Estatísticas do GitHub
-![Seu Nome de Usuário do GitHub](https://github-readme-stats.vercel.app/api?username=[SeuNomeDeUsuario]&show_icons=true)
+![Seu Nome de Usuário do GitHub](https://github-readme-stats.vercel.app/api?username=marcotvarau&show_icons=true)
