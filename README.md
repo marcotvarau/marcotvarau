@@ -31,6 +31,6 @@
 - **Huawei Brasil**: Architecture Projects Intern (janeiro de 2021 - março de 2021)
 
 ## Projetos e Interesses
-
+- Magnus Opus: https://github.com/marcotvarau/Dessulfuracao-Multithread
 ## Estatísticas do GitHub
 ![Seu Nome de Usuário do GitHub](https://github-readme-stats.vercel.app/api?username=marcotvarau&show_icons=true)
