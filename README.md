@@ -4,7 +4,7 @@
 ## Sobre Mim
 📍 Belo Horizonte, Minas Gerais, Brasil
 
-🎓 Estudante de Engenharia de Controle e Automação na Universidade Federal de Minas Gerais (março de 2022 - junho de 2025)
+🎓 Estudante de Engenharia de Controle e Automação na Universidade Federal de Minas Gerais (março de 2022 - junho de 2026)
 
 🔭 Atualmente trabalho no BTG Pactual como Summer Intern - Automation.
 
