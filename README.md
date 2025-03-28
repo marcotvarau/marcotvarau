@@ -1,5 +1,5 @@
 
-# Olá, eu sou Marco Thulio Maciel 👋
+# Olá, eu sou Marco Thulio Alves 👋
 
 ## Sobre Mim
 📍 Belo Horizonte, Minas Gerais, Brasil
