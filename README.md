@@ -4,7 +4,7 @@
 <div lang="en">
   <h1>Hi, I'm Marco Thulio</h1>
   <p>
-    I'm a <strong>Full-Stack Engineer</strong> at <a href="https://islandinnovation.co" target="_blank">Island Innovation</a>,
+    I'm a <strong>Full-Stack Engineer</strong> at <a href="https://island.marco-thulio.dev" target="_blank">Island Innovation</a>,
     with a degree in Control and Automation Engineering from <a href="https://www.ufmg.br" target="_blank">UFMG</a>.
   </p>
   
