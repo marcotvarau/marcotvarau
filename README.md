@@ -1,79 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Marco Thulio – Full-Stack Engineer</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-      color: #333;
-    }
-    h1 {
-      font-size: 2.5rem;
-      margin-bottom: 0.5rem;
-    }
-    a {
-      color: #1e90ff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-      display: flex;
-      gap: 1.5rem;
-    }
-    ul li {
-      margin: 0;
-    }
-    #tech-skills {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 1rem;
-      margin-top: 1rem;
-    }
-    .tech-icon img {
-      width: 160px;
-      transition: transform 0.3s ease;
-    }
-    .tech-icon img:hover {
-      transform: scale(1.1) rotate(5deg);
-    }
-    #dynamic {
-      margin-top: 2rem;
-      color: #555;
-      font-style: italic;
-      animation: fadeIn 4s ease-in-out infinite alternate;
-    }
-    @keyframes fadeIn {
-      from { opacity: 0.5; }
-      to { opacity: 1; }
-    }
-  </style>
-</head>
-<body>
+<!-- README.md -->
+
+<!-- HTML profile snippet inside Markdown -->
+<div lang="en">
   <h1>Hi, I'm Marco Thulio</h1>
   <p>
-    I am a <strong>Full-Stack Engineer</strong> at 
-    <a href="https://islandinnovation.co" target="_blank" rel="noopener">Island Innovation</a>.
-    I graduated in Control and Automation Engineering from 
-    <a href="https://www.ufmg.br" target="_blank" rel="noopener">UFMG</a>.
+    I'm a <strong>Full-Stack Engineer</strong> at <a href="https://islandinnovation.co" target="_blank">Island Innovation</a>,
+    with a degree in Control and Automation Engineering from <a href="https://www.ufmg.br" target="_blank">UFMG</a>.
   </p>
-
+  
+  <h2>📈 Career Highlights</h2>
   <ul>
-    <li><a href="https://www.marco-thulio.dev" target="_blank">Website</a></li>
-    <li><a href="https://www.linkedin.com/in/marco-thulio" target="_blank">LinkedIn</a></li>
-    <li><a href="mailto:marcothulio49@gmail.com">Email</a></li>
+    <li>
+      <strong>BTG Pactual</strong><br/>
+      <em>Business Intelligence Analyst</em> (2020–2022)<br/>
+      <ul>
+        <li>Developed FP&A dashboards in Power BI to support executive decision-making.</li>
+        <li>Built forecasting models in Python (Pandas, Scikit-learn) for revenue and expense projections.</li>
+        <li>Automated ETL pipelines using AWS Lambda and S3, reducing manual reporting by 70%.</li>
+      </ul>
+    </li>
+    <li>
+      <strong>CS Academy</strong><br/>
+      <em>CRM & Data Analytics Instructor</em> (2018–2020)<br/>
+      <ul>
+        <li>Designed and delivered hands-on courses on HubSpot CRM and SQL for over 200 students.</li>
+        <li>Created interactive Python notebooks and workshops for data cleaning and visualization.</li>
+      </ul>
+    </li>
+    <li>
+      <strong>LWSA</strong><br/>
+      <em>Data Engineer</em> (2016–2018)<br/>
+      <ul>
+        <li>Built MongoDB and PostgreSQL data warehouses to centralize customer and sales data.</li>
+        <li>Implemented data integration using Node.js and ETL frameworks for marketing automation.</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Island Innovation</strong><br/>
+      <em>Full-Stack Engineer</em> (2022–Present)<br/>
+      <ul>
+        <li>Develop and maintain global platforms with React, Next.js, and Tailwind CSS.</li>
+        <li>Design REST APIs using Node.js (Express) and Python (FastAPI) with MongoDB backend.</li>
+        <li>Orchestrate cloud deployments on AWS (EC2, Lambda, S3) and automate CI/CD with GitHub Actions.</li>
+      </ul>
+    </li>
   </ul>
 
-  <h2>Technologies I Work With</h2>
+  <h2>💻 Technologies I Use</h2>
   <div id="tech-skills">
     <div class="tech-icon">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -103,8 +76,18 @@
 
   <p id="dynamic">Crafting code that powers impactful digital solutions.</p>
 
+  <h2>🎓 Education</h2>
+  <p>Control and Automation Engineering, UFMG</p>
+
+  <h2>📫 Contact & Links</h2>
+  <ul>
+    <li>🌐 <a href="https://www.marco-thulio.dev">marco-thulio.dev</a></li>
+    <li>🔗 <a href="https://www.linkedin.com/in/marco-thulio">LinkedIn/marco-thulio</a></li>
+    <li>✉️ <a href="mailto:marcothulio49@gmail.com">marcothulio49@gmail.com</a></li>
+  </ul>
+
+  <!-- Optional script for dynamic badge shuffle -->
   <script>
-    // Shuffle tech icons every 5 seconds for a dynamic effect
     const shuffleIcons = () => {
       const container = document.getElementById('tech-skills');
       for (let i = container.children.length; i >= 0; i--) {
@@ -113,5 +96,4 @@
     };
     setInterval(shuffleIcons, 5000);
   </script>
-</body>
-</html>
+</div>
