@@ -86,14 +86,5 @@
     <li>✉️ <a href="mailto:marcothulio49@gmail.com">marcothulio49@gmail.com</a></li>
   </ul>
 
-  <!-- Optional script for dynamic badge shuffle -->
-  <script>
-    const shuffleIcons = () => {
-      const container = document.getElementById('tech-skills');
-      for (let i = container.children.length; i >= 0; i--) {
-        container.appendChild(container.children[Math.random() * i | 0]);
-      }
-    };
-    setInterval(shuffleIcons, 5000);
-  </script>
+
 </div>
