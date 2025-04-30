@@ -7,6 +7,8 @@
     I'm a <strong>Full-Stack Engineer</strong> at <a href="https://island.marco-thulio.dev" target="_blank">Island Innovation</a>,
     with a degree in Control and Automation Engineering from <a href="https://www.ufmg.br" target="_blank">UFMG</a>.
   </p>
+  ![Commits This Year](https://github-readme-stats.vercel.app/api/commit-activity?username=marcotvarau&theme=dark)
+
   
   <h2>📈 Career Highlights</h2>
   <ul>
