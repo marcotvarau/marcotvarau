@@ -4,7 +4,7 @@
   <!-- GitHub Stats -->
   <a href="https://github.com/marcotvarau">
     <img loading="lazy" height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego3g&layout=compact&langs_count=7&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=diego3g&theme=dracula&show_icons=true&hide_border=true&count_private=true"
       alt="Top Languages" />
     <img loading="lazy" height = "180rem"
       src = "https://github-readme-streak-stats.herokuapp.com/?user=diego3g&theme=dracula&hide_border=true"
