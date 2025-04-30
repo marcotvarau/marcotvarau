@@ -45,16 +45,11 @@
       Skills: Machine Learning · Python · Software Development · CRM · AWS Lambda · Web Technologies
     </li>
     <li>
-      <strong>Data Scientist Intern (Full-time)</strong>  
-      <em>(May 2022 – Jul 2022 • São Paulo, Brazil)</em><br/>
+      <strong>Data Scientist Intern</strong>  
+      <em>(May 2021 – Jul 2022 • São Paulo, Brazil)</em><br/>
       Skills: Python · Data Analysis · Data Science
     </li>
-    <li>
-      <strong>Data Scientist Intern</strong>  
-      <em>(May 2021 – Jan 2022)</em><br/>
-      Skills: Python · Microsoft Power BI · Data Analysis · Data Science
-    </li>
-  </ul>
+
 
   <h2>🎓 Education</h2>
   <p>
